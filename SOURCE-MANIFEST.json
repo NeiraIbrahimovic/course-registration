@@ -1,0 +1,66 @@
+[
+  {
+    "path": "adminInfo.txt",
+    "recovered_source_sha256": "f33f442f8e5d265364d01fdfb007803c94a38083e50741d5bfb699fd9b483e8b"
+  },
+  {
+    "path": "courseInfo.txt",
+    "recovered_source_sha256": "fe1db18bd35a07a5163ae87d8e4b9977f099de8095deb49c618817ed5088cd55"
+  },
+  {
+    "path": "profInfo.txt",
+    "recovered_source_sha256": "36043bd3dbbc77de50028858305c9c83cbe103432901e6d70608ba41a64ba26a"
+  },
+  {
+    "path": "studentInfo.txt",
+    "recovered_source_sha256": "ecc2a763f82791623021bb982043f69bc6b680d36d13b58a0f3b990922b66c9c"
+  },
+  {
+    "path": "src/Controller.java",
+    "recovered_source_sha256": "21f43e0f0c8a4dd7afe504abdfdd24b37a9a3b2cae5b912720ae39cdc9ba129e"
+  },
+  {
+    "path": "src/courses/Courses.java",
+    "recovered_source_sha256": "868f1f00d46a72fe84089905900c6462a6b8fe391ae6fdf87c2b4010ed578eda"
+  },
+  {
+    "path": "src/courses/CoursesTest.java",
+    "recovered_source_sha256": "6b3a07c89a599af37c857ee1a03b636a242b05fb6a168e49b157b4e843ab7ad0"
+  },
+  {
+    "path": "src/files/FileInfoReader.java",
+    "recovered_source_sha256": "8a19230a08ec3eb17291eb7087c377a2a111269a15c8ce36e126e4072c18a9c1"
+  },
+  {
+    "path": "src/files/FileInfoReaderTest.java",
+    "recovered_source_sha256": "1e7ab0c308e74deacf5c924634a5d8212f50f51a359e6a80c435ec7e059c16f7"
+  },
+  {
+    "path": "src/roles/Admin.java",
+    "recovered_source_sha256": "419161180da90f44c2db5615d4bfffab41be2035a7fce15a0938ffe5ffa73cc6"
+  },
+  {
+    "path": "src/roles/AdminTest.java",
+    "recovered_source_sha256": "6d99932f2ff8a1a7b6af7642af375bd43868167812b4bcccc436539d14977e3f"
+  },
+  {
+    "path": "src/roles/Professor.java",
+    "recovered_source_sha256": "59942d27357b0185818514bc4508b6f51f055e7c98da337bbc767528a10512a1"
+  },
+  {
+    "path": "src/roles/ProfessorTest.java",
+    "recovered_source_sha256": "4296143c19c561f26ab3b6646dcf7099cc8085c93d9d01109f13350d3afab9e6"
+  },
+  {
+    "path": "src/roles/Student.java",
+    "recovered_source_sha256": "60fdd25be85e495c40d7cb69782a36eecee06cb189d3799da92b7bc08e767c66"
+  },
+  {
+    "path": "src/roles/StudentTest.java",
+    "recovered_source_sha256": "169c5befc261dfcde84d859b7b8ccf1f934d1a92ca53ed60c7fce2c56c2901ec"
+  },
+  {
+    "path": "src/roles/User.java",
+    "recovered_source_sha256": "2d62929d7b0466018b52d4d50b25a68ad6d87e417313139fb6ec91aee2569e40"
+  }
+]
